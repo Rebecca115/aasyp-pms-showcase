@@ -67,4 +67,4 @@ Professional entry point with multi-role support.
 For inquiries regarding the technical implementation, detailed project documentation, or a private live demo, please feel free to reach out.
 
 **Author:** Rebecca Chen  
-**Portfolio:** [Link to your personal website]
+**Portfolio:** [https://rebecca-portfolio-phi.vercel.app/]
