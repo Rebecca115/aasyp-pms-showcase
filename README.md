@@ -22,7 +22,7 @@ A professional, role-based project management solution designed to streamline te
 
 - **Frontend:** React.js, Tailwind CSS, Framer Motion (for smooth UI transitions)
 - **Backend:** Node.js
-- **Database:** PostgreSQL / MongoDB
+- **Database:** Supabase
 - **Workflow:** Git-based collaboration.
 
 ---
