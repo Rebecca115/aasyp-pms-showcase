@@ -9,13 +9,10 @@ Focused on task coordination, data visualization, and secure collaboration.
 
 ## Preview
 
-<p align="center">
-<img src="assets/dashboard.png" width="80%" />
+<img src="assets/dashboard.png">
 </p>
-
-<p align="center">
-<img src="assets/task.png" width="38%" />
-<img src="assets/loginhome.png" width="38%" />
+<img src="assets/task.png">
+<img src="assets/loginhome.png">
 </p>
 
 ---
