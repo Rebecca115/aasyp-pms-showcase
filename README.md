@@ -1,4 +1,4 @@
-# AASyP Project Management System (PMS)
+# AASYP Project Management System (PMS)
 
 A professional, role-based project management solution designed to streamline team collaboration, task tracking, and data visualization.
 
