@@ -1,66 +1,70 @@
-# AASYP Project Management System
+# AASyP Project Management System (PMS)
 
-A real-world project management system built for a non-profit organization.<br/>
-Focused on task coordination, data visualization, and secure collaboration.
-</p>
+A professional, role-based project management solution designed to streamline team collaboration, task tracking, and data visualization.
 
 ---
 
-## Preview
-
-<img src="assets/dashboard.png">
-</p>
-<img src="assets/task.png">
-<img src="assets/loginhome.png">
-</p>
+## 🔒 Confidentiality Notice
+**Source Code Status: Private / Restricted** Due to non-disclosure agreements (NDA) and project security protocols, the source code of this repository is not public. This repository serves as a **Portfolio Showcase**, documenting the system's architecture, UI/UX design, and core technical implementation logic.
 
 ---
 
-## Highlights
+## 🚀 Key Features
 
-* Real-world application for a non-profit organization (AASYP)
-* Clean and intuitive **UI/UX design**
-* **Role-based access control (RBAC)**
-* Interactive **data dashboard for project tracking**
-
----
-
-## My Contribution
-
-* Led **UI/UX design** across key system pages
-* Developed **front-end components** using React
-* Built **data visualization dashboard**
-* Integrated frontend with backend APIs
-* Coordinated development using Agile workflows
+- **Dynamic Dashboard:** Provides a high-level overview of project milestones, task distribution, and team productivity metrics.
+- **Granular Task Management:** Supports complex task lifecycles, including allocation, priority leveling, and real-time status updates.
+- **Role-Based Access Control (RBAC):** A secure permission system ensuring that users only access data relevant to their specific roles.
+- **Data-Driven Insights:** Integrated charts and visual tools to monitor progress and identify potential bottlenecks.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
-
-React • Node.js • Supabase • REST API • Agile
-
-</p>
-
----
-
-## Project Context
-
-This system was developed for the ASEAN-Australia Strategic Youth Partnership (AASYP) to improve internal task management and collaboration.
-
-Due to confidentiality agreements, the source code is not publicly available. This repository focuses on showcasing system design, features, and my contributions.
+- **Frontend:** React.js, Tailwind CSS, Framer Motion (for smooth UI transitions)
+- **Backend:** Node.js / Express (or specify your actual backend)
+- **Database:** PostgreSQL / MongoDB (or specify your actual database)
+- **Workflow:** Git-based collaboration, Vercel/GitHub CI/CD deployment.
 
 ---
 
-## Team
+## 🏗 System Architecture & Design
 
-This project was developed as part of a team at the University of Western Australia.
+### 1. System Logic & User Flow
+We prioritized a seamless user experience by mapping out detailed user journeys to minimize operational friction.
+![User Flow](./docs/user-flow.png)
 
-My role focused on UI/UX design, front-end development, and data visualization.
+### 2. Architecture Design
+The system follows a modular architecture to ensure scalability and ease of maintenance.
+![Architecture](./docs/architecture.png)
 
 ---
 
-## Notes
+## 📸 Interface Showcase
 
-This repository is intended for portfolio and demonstration purposes only.
+### Dashboard Interface
+The dashboard provides a comprehensive view of all ongoing activities.
+![Dashboard](./assets/dashboard.png)
+
+### Task Management Module
+Focuses on clarity and efficiency for daily operations.
+![Task](./assets/task.png)
+
+### Secure Authentication
+Professional entry point with multi-role support.
+![Login Home](./assets/loginhome.png)
+
+---
+
+## 👨‍💻 Development Highlights
+
+- **UI/UX Excellence:** Implemented a clean, modern interface using Tailwind CSS, focusing on professional aesthetics and readability.
+- **Optimization:** Handled complex state management for task tracking to ensure a responsive user experience.
+- **Documentation:** Maintained rigorous documentation of system flows and architectural patterns.
+
+---
+
+## ✉️ Contact
+For inquiries regarding the technical implementation, detailed project documentation, or a private live demo, please feel free to reach out.
+
+**Author:** Rebecca Chen  
+**Portfolio:** [Link to your personal website]
