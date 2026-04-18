@@ -21,9 +21,9 @@ A professional, role-based project management solution designed to streamline te
 ## 🛠 Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS, Framer Motion (for smooth UI transitions)
-- **Backend:** Node.js / Express (or specify your actual backend)
-- **Database:** PostgreSQL / MongoDB (or specify your actual database)
-- **Workflow:** Git-based collaboration, Vercel/GitHub CI/CD deployment.
+- **Backend:** Node.js
+- **Database:** PostgreSQL / MongoDB
+- **Workflow:** Git-based collaboration.
 
 ---
 
@@ -62,9 +62,5 @@ Professional entry point with multi-role support.
 - **Documentation:** Maintained rigorous documentation of system flows and architectural patterns.
 
 ---
-
-## ✉️ Contact
-For inquiries regarding the technical implementation, detailed project documentation, or a private live demo, please feel free to reach out.
-
 **Author:** Rebecca Chen  
 **Portfolio:** [https://rebecca-portfolio-phi.vercel.app/]
