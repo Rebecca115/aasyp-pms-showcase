@@ -14,7 +14,7 @@ Focused on task coordination, data visualization, and secure collaboration.
 </p>
 
 <p align="center">
-<img src="assets/tasks.png" width="38%" />
+<img src="assets/task.png" width="38%" />
 <img src="assets/loginhome.png" width="38%" />
 </p>
 
