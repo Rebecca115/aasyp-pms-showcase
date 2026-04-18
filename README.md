@@ -1,6 +1,5 @@
 # AASYP Project Management System
 
-<p align="center">
 A real-world project management system built for a non-profit organization.<br/>
 Focused on task coordination, data visualization, and secure collaboration.
 </p>
